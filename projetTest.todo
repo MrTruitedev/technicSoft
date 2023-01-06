@@ -1,0 +1,6 @@
+{TODO 5 -oApp -cMémoire :  Suppression des objets}
+{TODO 5 -oApp -cMémoire : Suppression des pointers ptrItem, ptrObj,
+}
+{TODO 1 -oItem -cMéthode : Ajout méthode ajout Item}
+{TODO 1 -oItem -cMéthode : Ajout méthode concaténation}
+

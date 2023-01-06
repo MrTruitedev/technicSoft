@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/01/02 15:32:16.000.521,=C:\Users\dev\Documents\Embarcadero\Studio\Projets\Unit2.cpp</Transaction>
+    <Transaction>2023/01/02 15:32:16.000.493,=C:\Users\dev\Documents\Embarcadero\Studio\Projets\Project1PCH1.h</Transaction>
+    <Transaction>2023/01/02 15:32:36.000.843,C:\Users\dev\Documents\Embarcadero\Studio\Projets\projetTestPCH1.h=C:\Users\dev\Documents\Embarcadero\Studio\Projets\Project1PCH1.h</Transaction>
+    <Transaction>2023/01/02 15:32:36.000.856,C:\Users\dev\Documents\Embarcadero\Studio\Projets\projetTest.cbproj=C:\Users\dev\Documents\Embarcadero\Studio\Projets\Project1.cbproj</Transaction>
+    <Transaction>2023/01/02 15:32:50.000.709,C:\Users\dev\Documents\Embarcadero\Studio\Projets\projetTest_main.cpp=C:\Users\dev\Documents\Embarcadero\Studio\Projets\Unit2.cpp</Transaction>
+    <Transaction>2023/01/02 15:32:50.000.709,C:\Users\dev\Documents\Embarcadero\Studio\Projets\projetTest_main.dfm=C:\Users\dev\Documents\Embarcadero\Studio\Projets\Unit2.dfm</Transaction>
+    <Transaction>2023/01/02 15:32:50.000.709,C:\Users\dev\Documents\Embarcadero\Studio\Projets\projetTest_main.h=C:\Users\dev\Documents\Embarcadero\Studio\Projets\Unit2.h</Transaction>
+    <Transaction>2023/01/02 15:32:55.000.954,C:\Users\dev\Documents\Embarcadero\Studio\Projets\projetTest.cbproj=C:\Users\dev\Documents\Embarcadero\Studio\Projets\projetTest.cbproj</Transaction>
+    <Transaction>2023/01/02 16:10:48.000.642,=C:\Users\dev\Documents\Embarcadero\Studio\Projets\Unit2.cpp</Transaction>
+    <Transaction>2023/01/02 16:11:52.000.975,C:\Users\dev\Documents\Embarcadero\Studio\Projets\projetTest_addForm.cpp=C:\Users\dev\Documents\Embarcadero\Studio\Projets\Unit2.cpp</Transaction>
+    <Transaction>2023/01/02 16:11:52.000.975,C:\Users\dev\Documents\Embarcadero\Studio\Projets\projetTest_addForm.dfm=C:\Users\dev\Documents\Embarcadero\Studio\Projets\Unit2.dfm</Transaction>
+    <Transaction>2023/01/02 16:11:52.000.975,C:\Users\dev\Documents\Embarcadero\Studio\Projets\projetTest_addForm.h=C:\Users\dev\Documents\Embarcadero\Studio\Projets\Unit2.h</Transaction>
+    <Transaction>2023/01/02 17:17:24.000.002,=C:\Users\dev\Documents\Embarcadero\Studio\Projets\Unit2.cpp</Transaction>
+    <Transaction>2023/01/02 17:37:07.000.902,C:\Users\dev\Documents\Embarcadero\Studio\Projets\projetTest_Items.cpp=C:\Users\dev\Documents\Embarcadero\Studio\Projets\Unit2.cpp</Transaction>
+    <Transaction>2023/01/02 17:37:07.000.902,C:\Users\dev\Documents\Embarcadero\Studio\Projets\projetTest_Items.h=C:\Users\dev\Documents\Embarcadero\Studio\Projets\Unit2.h</Transaction>
+    <Transaction>2023/01/03 09:41:41.000.777,C:\Users\dev\Documents\Embarcadero\Studio\Projets\projetTest_Items.cpp=C:\Users\dev\Documents\Embarcadero\Studio\Projets\projetTest_Item.cpp</Transaction>
+    <Transaction>2023/01/03 09:41:41.000.777,C:\Users\dev\Documents\Embarcadero\Studio\Projets\projetTest_Items.h=C:\Users\dev\Documents\Embarcadero\Studio\Projets\projetTest_Item.h</Transaction>
+    <Transaction>2023/01/04 15:24:13.000.415,=C:\Users\dev\Documents\Embarcadero\Studio\Projets\Unit3.cpp</Transaction>
+    <Transaction>2023/01/04 15:24:45.000.240,C:\Users\dev\Documents\Embarcadero\Studio\Projets\Unit3.h=C:\Users\dev\Documents\Embarcadero\Studio\Projets\projetTest_modForm.h</Transaction>
+    <Transaction>2023/01/04 15:24:45.000.240,C:\Users\dev\Documents\Embarcadero\Studio\Projets\Unit3.cpp=C:\Users\dev\Documents\Embarcadero\Studio\Projets\projetTest_modForm.cpp</Transaction>
+    <Transaction>2023/01/04 15:24:45.000.240,C:\Users\dev\Documents\Embarcadero\Studio\Projets\Unit3.dfm=C:\Users\dev\Documents\Embarcadero\Studio\Projets\projetTest_modForm.dfm</Transaction>
+    <Transaction>2023/01/05 09:29:39.000.488,C:\Users\dev\Documents\Embarcadero\Studio\Projets\projetTest_modForm.cpp=</Transaction>
+    <Transaction>2023/01/05 10:08:58.000.063,=C:\Users\dev\Documents\Embarcadero\Studio\Projets\projetTest_modForm.cpp</Transaction>
+    <Transaction>2023/01/05 10:09:40.000.159,C:\Users\dev\Documents\Embarcadero\Studio\Projets\projetTest_modForm.cpp=C:\Users\dev\Documents\Embarcadero\Studio\Projets\projetTest_modForme.cpp</Transaction>
+    <Transaction>2023/01/05 10:09:40.000.159,C:\Users\dev\Documents\Embarcadero\Studio\Projets\projetTest_modForm.h=C:\Users\dev\Documents\Embarcadero\Studio\Projets\projetTest_modForme.h</Transaction>
+    <Transaction>2023/01/05 10:09:40.000.159,C:\Users\dev\Documents\Embarcadero\Studio\Projets\projetTest_modForm.dfm=C:\Users\dev\Documents\Embarcadero\Studio\Projets\projetTest_modForme.dfm</Transaction>
+    <Transaction>2023/01/05 10:19:26.000.718,C:\Users\dev\Documents\Embarcadero\Studio\Projets\projetTest_modForme.cpp=</Transaction>
+    <Transaction>2023/01/05 10:19:33.000.188,=C:\Users\dev\Documents\Embarcadero\Studio\Projets\Unit3.cpp</Transaction>
+    <Transaction>2023/01/05 10:19:46.000.749,C:\Users\dev\Documents\Embarcadero\Studio\Projets\Unit3.cpp=C:\Users\dev\Documents\Embarcadero\Studio\Projets\projetTest_modForme.cpp</Transaction>
+    <Transaction>2023/01/05 10:19:46.000.749,C:\Users\dev\Documents\Embarcadero\Studio\Projets\Unit3.dfm=C:\Users\dev\Documents\Embarcadero\Studio\Projets\projetTest_modForme.dfm</Transaction>
+    <Transaction>2023/01/05 10:19:46.000.749,C:\Users\dev\Documents\Embarcadero\Studio\Projets\Unit3.h=C:\Users\dev\Documents\Embarcadero\Studio\Projets\projetTest_modForme.h</Transaction>
+    <Transaction>2023/01/05 11:03:49.000.750,=C:\Users\dev\Documents\Embarcadero\Studio\Projets\projetTest.todo</Transaction>
+    <Transaction>2023/01/05 16:50:40.000.944,C:\Users\dev\Documents\Embarcadero\Studio\Projets\projetTest_modForme.cpp=</Transaction>
+    <Transaction>2023/01/06 10:45:13.781,=C:\Users\dev\Documents\Embarcadero\Studio\Projets\Unit3.cpp</Transaction>
+    <Transaction>2023/01/06 10:45:42.388,C:\Users\dev\Documents\Embarcadero\Studio\Projets\projetTest_FileWriter.h=C:\Users\dev\Documents\Embarcadero\Studio\Projets\Unit3.h</Transaction>
+    <Transaction>2023/01/06 10:45:42.388,C:\Users\dev\Documents\Embarcadero\Studio\Projets\projetTest_FileWriter.cpp=C:\Users\dev\Documents\Embarcadero\Studio\Projets\Unit3.cpp</Transaction>
+    <Transaction>2023/01/06 11:33:05.523,=C:\Users\dev\Documents\Embarcadero\Studio\Projets\Untitled1.xml</Transaction>
+    <Transaction>2023/01/06 11:33:35.978,=C:\Users\dev\Documents\Embarcadero\Studio\Projets\Untitled1.xml</Transaction>
+    <Transaction>2023/01/06 11:48:21.044,=C:\Users\dev\Documents\Embarcadero\Studio\Projets\Untitled1.xml</Transaction>
+    <Transaction>2023/01/06 11:48:46.566,C:\Users\dev\Documents\Embarcadero\Studio\Projets\xmlFile.xml=C:\Users\dev\Documents\Embarcadero\Studio\Projets\Untitled1.xml</Transaction>
+  </Transactions>
+</BorlandProject>
